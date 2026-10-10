@@ -1,5 +1,14 @@
 ## Hi there 👋
+I’m a self-started and client-focused professional building my career in the IT industry through ongoing self-directed learning, IT training, and courses. I’m passionate about technology, troubleshooting, technical support, SQL, networking, and finding practical solutions to help users and clients.
 
+
+
+I’m developing a strong foundation in IT while combining my growing technical knowledge with experience in data, administration, customer service, logistics, and operational environments. Being self-started has taught me the importance of taking initiative, learning independently, adapting quickly, and continuously improving my skills.
+
+
+
+## Contact Information 💻
+[My Linkedin Profile](www.linkedin.com/in/dillon-lombard-b2437216b)
 <!--
 **Dillon-Lombard/Dillon-Lombard** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
