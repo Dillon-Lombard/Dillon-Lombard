@@ -1,4 +1,4 @@
-# Hi there 👋
+# Hi there I'm Dillon 👋
 I’m a self-started and client-focused professional building my career in the IT industry through ongoing self-directed learning, IT training, and courses. I’m passionate about technology, troubleshooting, technical support, SQL, networking, and finding practical solutions to help users and clients.
 
 
